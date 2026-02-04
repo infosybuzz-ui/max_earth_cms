@@ -1,0 +1,631 @@
+@font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.eot");
+    src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/Flaticon.woff2") format("woff2"),
+        url("../fonts/Flaticon.woff") format("woff"),
+        url("../fonts/Flaticon.ttf") format("truetype"),
+        url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon";
+        src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-"]:before,
+[class*=" flaticon-"]:before,
+[class^="flaticon-"]:after,
+[class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-style: normal;
+}
+
+
+.flaticon-firewood:before {
+    content: "\f101";
+}
+
+.flaticon-hammer:before {
+    content: "\f102";
+}
+
+.flaticon-train-tracks:before {
+    content: "\f103";
+}
+
+.flaticon-mine-cart:before {
+    content: "\f104";
+}
+
+.flaticon-digging:before {
+    content: "\f105";
+}
+
+.flaticon-crane-truck:before {
+    content: "\f106";
+}
+
+.flaticon-gold-stack:before {
+    content: "\f107";
+}
+
+.flaticon-cave:before {
+    content: "\f108";
+}
+
+.flaticon-labor-man:before {
+    content: "\f109";
+}
+
+.flaticon-pickaxe:before {
+    content: "\f10a";
+}
+
+.flaticon-factory:before {
+    content: "\f10b";
+}
+
+.flaticon-truck:before {
+    content: "\f10c";
+}
+
+.flaticon-mining-cart:before {
+    content: "\f10d";
+}
+
+.flaticon-currency-exchange:before {
+    content: "\f10e";
+}
+
+.flaticon-paper:before {
+    content: "\f10f";
+}
+
+.flaticon-hand-saw:before {
+    content: "\f110";
+}
+
+.flaticon-boot-shoes:before {
+    content: "\f111";
+}
+
+.flaticon-wheelbarrow:before {
+    content: "\f112";
+}
+
+.flaticon-pyre:before {
+    content: "\f113";
+}
+
+.flaticon-dinamite:before {
+    content: "\f114";
+}
+
+.flaticon-train:before {
+    content: "\f115";
+}
+
+.flaticon-money-bag:before {
+    content: "\f116";
+}
+
+.flaticon-traffic-barrier:before {
+    content: "\f117";
+}
+
+.flaticon-helmet:before {
+    content: "\f118";
+}
+
+.flaticon-torch:before {
+    content: "\f119";
+}
+
+.flaticon-diamond:before {
+    content: "\f11a";
+}
+
+.flaticon-weight-scale:before {
+    content: "\f11b";
+}
+
+.flaticon-tunnel:before {
+    content: "\f11c";
+}
+
+.flaticon-cave-1:before {
+    content: "\f11d";
+}
+
+.flaticon-cargo-truck:before {
+    content: "\f11e";
+}
+
+.flaticon-bomb:before {
+    content: "\f11f";
+}
+
+.flaticon-gold-ingots:before {
+    content: "\f120";
+}
+
+.flaticon-mining-cart-1:before {
+    content: "\f121";
+}
+
+.flaticon-diamond-1:before {
+    content: "\f122";
+}
+
+.flaticon-crane-truck-1:before {
+    content: "\f123";
+}
+
+.flaticon-oil-barrel:before {
+    content: "\f124";
+}
+
+.flaticon-diamond-2:before {
+    content: "\f125";
+}
+
+.flaticon-miner:before {
+    content: "\f126";
+}
+
+.flaticon-rock:before {
+    content: "\f127";
+}
+
+.flaticon-mine-cart-1:before {
+    content: "\f128";
+}
+
+.flaticon-cutter:before {
+    content: "\f129";
+}
+
+.flaticon-drill:before {
+    content: "\f12a";
+}
+
+.flaticon-dynamite:before {
+    content: "\f12b";
+}
+
+.flaticon-axe:before {
+    content: "\f12c";
+}
+
+.flaticon-bonfire:before {
+    content: "\f12d";
+}
+
+.flaticon-mining:before {
+    content: "\f12e";
+}
+
+.flaticon-crucible:before {
+    content: "\f12f";
+}
+
+.flaticon-blacksmith:before {
+    content: "\f130";
+}
+
+.flaticon-sculptor:before {
+    content: "\f131";
+}
+
+.flaticon-refinery:before {
+    content: "\f132";
+}
+
+.flaticon-mining-1:before {
+    content: "\f133";
+}
+
+.flaticon-furnace:before {
+    content: "\f134";
+}
+
+.flaticon-glassblowing:before {
+    content: "\f135";
+}
+
+.flaticon-panning:before {
+    content: "\f136";
+}
+
+.flaticon-wagon:before {
+    content: "\f137";
+}
+
+.flaticon-jewelry:before {
+    content: "\f138";
+}
+
+.flaticon-apron:before {
+    content: "\f139";
+}
+
+.flaticon-cool:before {
+    content: "\f13a";
+}
+
+.flaticon-woodcutter:before {
+    content: "\f13b";
+}
+
+.flaticon-kiln:before {
+    content: "\f13c";
+}
+
+.flaticon-equipment:before {
+    content: "\f13d";
+}
+
+.flaticon-lumberjack:before {
+    content: "\f13e";
+}
+
+.flaticon-location:before {
+    content: "\f13f";
+}
+
+.flaticon-call:before {
+    content: "\f140";
+}
+
+.flaticon-phone:before {
+    content: "\f141";
+}
+
+.flaticon-email:before {
+    content: "\f142";
+}
+
+.flaticon-guarantee:before {
+    content: "\f143";
+}
+
+.flaticon-pdf:before {
+    content: "\f144";
+}
+
+.flaticon-document:before {
+    content: "\f145";
+}
+
+.flaticon-select:before {
+    content: "\f146";
+}
+
+.flaticon-engineer:before {
+    content: "\f147";
+}
+
+.flaticon-factory-1:before {
+    content: "\f148";
+}
+
+.flaticon-factory-2:before {
+    content: "\f149";
+}
+
+.flaticon-professional:before {
+    content: "\f14a";
+}
+
+.flaticon-factory-3:before {
+    content: "\f14b";
+}
+
+.flaticon-tanker:before {
+    content: "\f14c";
+}
+
+.flaticon-forklift:before {
+    content: "\f14d";
+}
+
+.flaticon-helmet-1:before {
+    content: "\f14e";
+}
+
+.flaticon-fuel-station:before {
+    content: "\f14f";
+}
+
+.flaticon-solar-panel:before {
+    content: "\f150";
+}
+
+.flaticon-gear:before {
+    content: "\f151";
+}
+
+.flaticon-oil:before {
+    content: "\f152";
+}
+
+.flaticon-radiation:before {
+    content: "\f153";
+}
+
+.flaticon-nuclear-plant:before {
+    content: "\f154";
+}
+
+.flaticon-cone:before {
+    content: "\f155";
+}
+
+.flaticon-container:before {
+    content: "\f156";
+}
+
+.flaticon-robotic-arm:before {
+    content: "\f157";
+}
+
+.flaticon-tank:before {
+    content: "\f158";
+}
+
+.flaticon-eolic-energy:before {
+    content: "\f159";
+}
+
+.flaticon-cart:before {
+    content: "\f15a";
+}
+
+.flaticon-tool:before {
+    content: "\f15b";
+}
+
+.flaticon-pump-jack:before {
+    content: "\f15c";
+}
+
+.flaticon-product:before {
+    content: "\f15d";
+}
+
+.flaticon-oil-1:before {
+    content: "\f15e";
+}
+
+.flaticon-robot-arm:before {
+    content: "\f15f";
+}
+
+.flaticon-oil-2:before {
+    content: "\f160";
+}
+
+.flaticon-truck-1:before {
+    content: "\f161";
+}
+
+.flaticon-container-1:before {
+    content: "\f162";
+}
+
+.flaticon-fuel-truck:before {
+    content: "\f163";
+}
+
+.flaticon-voltmeter:before {
+    content: "\f164";
+}
+
+.flaticon-work-time:before {
+    content: "\f165";
+}
+
+.flaticon-box:before {
+    content: "\f166";
+}
+
+.flaticon-power-plant:before {
+    content: "\f167";
+}
+
+.flaticon-factory-machine:before {
+    content: "\f168";
+}
+
+.flaticon-electric-factory:before {
+    content: "\f169";
+}
+
+.flaticon-foreman:before {
+    content: "\f16a";
+}
+
+.flaticon-work-list:before {
+    content: "\f16b";
+}
+
+.flaticon-tank-1:before {
+    content: "\f16c";
+}
+
+.flaticon-worker:before {
+    content: "\f16d";
+}
+
+.flaticon-tank-2:before {
+    content: "\f16e";
+}
+
+.flaticon-water-factory:before {
+    content: "\f16f";
+}
+
+.flaticon-factory-4:before {
+    content: "\f170";
+}
+
+.flaticon-report:before {
+    content: "\f171";
+}
+
+.flaticon-forklift-1:before {
+    content: "\f172";
+}
+
+.flaticon-warehouse:before {
+    content: "\f173";
+}
+
+.flaticon-gear-1:before {
+    content: "\f174";
+}
+
+.flaticon-factory-machine-1:before {
+    content: "\f175";
+}
+
+.flaticon-car:before {
+    content: "\f176";
+}
+
+.flaticon-foreman-1:before {
+    content: "\f177";
+}
+
+.flaticon-worker-1:before {
+    content: "\f178";
+}
+
+.flaticon-mechanical-arm:before {
+    content: "\f179";
+}
+
+.flaticon-mechanical-arm-1:before {
+    content: "\f17a";
+}
+
+.flaticon-jacket:before {
+    content: "\f17b";
+}
+
+.flaticon-worker-2:before {
+    content: "\f17c";
+}
+
+.flaticon-helmet-2:before {
+    content: "\f17d";
+}
+
+.flaticon-mechanical-arm-2:before {
+    content: "\f17e";
+}
+
+.flaticon-factory-machine-2:before {
+    content: "\f17f";
+}
+
+.flaticon-trolley:before {
+    content: "\f180";
+}
+
+.flaticon-truck-2:before {
+    content: "\f181";
+}
+
+.flaticon-switch:before {
+    content: "\f182";
+}
+
+.flaticon-presentation:before {
+    content: "\f183";
+}
+
+.flaticon-worker-3:before {
+    content: "\f184";
+}
+
+.flaticon-factory-machine-3:before {
+    content: "\f185";
+}
+
+.flaticon-factory-machine-4:before {
+    content: "\f186";
+}
+
+.flaticon-container-2:before {
+    content: "\f187";
+}
+
+.flaticon-drill-1:before {
+    content: "\f188";
+}
+
+.flaticon-gear-2:before {
+    content: "\f189";
+}
+
+.flaticon-wrench:before {
+    content: "\f18a";
+}
+
+.flaticon-research:before {
+    content: "\f18b";
+}
+
+.flaticon-box-1:before {
+    content: "\f18c";
+}
+
+.flaticon-monitor:before {
+    content: "\f18d";
+}
+
+.flaticon-scale:before {
+    content: "\f18e";
+}
+
+.flaticon-gear-3:before {
+    content: "\f18f";
+}
+
+.flaticon-hook:before {
+    content: "\f190";
+}
+
+.flaticon-controller:before {
+    content: "\f191";
+}
+
+.flaticon-controller-1:before {
+    content: "\f192";
+}
+
+.flaticon-mechanical-arm-3:before {
+    content: "\f193";
+}
+
+.flaticon-box-2:before {
+    content: "\f194";
+}
+
+.flaticon-gear-4:before {
+    content: "\f195";
+}
+
+.flaticon-bulb:before {
+    content: "\f196";
+}
+
+.flaticon-battery:before {
+    content: "\f197";
+}

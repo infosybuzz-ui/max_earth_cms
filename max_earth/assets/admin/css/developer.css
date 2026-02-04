@@ -1,0 +1,110 @@
+.pagination .active a{
+	background-color: #1ab394;
+    border-color: #1ab394;
+    color: #ffffff;
+}
+.btn-group .active{
+	background-color: #1ab394;
+    border-color: #1ab394;
+    color: #ffffff;
+}
+a.add-new-btn{
+	//float: right;
+    //margin-top: -7px;
+	margin-right: 6px;
+	color: #fff;
+}
+#description_tbl{height:320px !important;}
+.loding-cursor{
+	overflow:hidden;
+}
+#loading_overlay {
+	background-color: #000;
+	height: 100%;
+	left: 0;
+	opacity: 0.9;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 9999999;
+}
+#loading_overlay .loading_message {
+	color: #333333;
+	font-weight: 700;
+	left: 43%;   
+	position: absolute;
+	top: 36%;
+}
+#loading_overlay .loading_message img {
+	margin: 7px auto;
+}
+.my-check-input{
+	height: 30px !important;
+    margin-top: 0px;
+	display:none;
+}
+.my-inline-div{
+	margin-top:-30px;
+	display:none;
+}
+.my-inline-div .control-label{
+	font-weight:bold;
+	width:100% !important;
+	text-align:left !important;	
+}
+.my-control-label{width:9% !important;}
+.my-hr-tag{
+	margin-top: 4px !important;
+    margin-bottom: 4px !important;
+    border: 0;
+    border-top: 1px solid #eee;
+    border-color: #EBF8A4;
+}
+.tickets_left_span{
+	color:#E6584C;
+}
+.my-checkbox-inline{
+	padding-left: 50px !important;
+}
+.search-area{
+	//border-bottom: 1px solid #18A689;
+    margin-bottom: 10px;
+	background:#e5e5e5;
+	padding:6px 1px;
+}
+a:focus{
+	outline: none !important;
+}
+.form-control.error {
+    border: 1px solid #CC5965;
+}
+option:disabled{
+	color: #ccc !important;
+}
+.table-responsive{width:100%;}
+.pagination_head{float:left;margin: 24px 10px;font-size: 15px;font-weight: bold;}
+.custom-wdth{width:90%;margin:0 auto;}
+.table-bordered thead tr th{text-align:left !important;}
+a.actions-a{margin-right: 12px;}
+.table-bordered .fa{font-size:20px;}
+.top-navigation .wrapper.wrapper-content {padding: 25px 40px !important;}
+.back_to_lst_dv{margin-top: 20px;text-align: right;margin-right: 3%;}
+.change_com_sts_spn,.cncl_chnge_sts_spn,.change_tckt_sts_spn, .cncl_chnge_tckt_sts_spn{color:#da251d;font-size: 11px;cursor:pointer;}
+.chnge_sts_slct, .chnge_sts_slct_tckt{width:90%;}
+#myIncCommDtlsModal div.modal-dialog{width:80% !important}
+#myIncCommDtlsModal .incCommDtlsBckBtn{float: right;margin-right: 15px;}
+#myIncCommDtlsModal h4.modal-title{float: left;}
+#myIncCommDtlsModal div.modal-header{overflow: hidden;}
+.ibox-tools{margin-top: -7px;}
+.navbar-right li a{min-height: 26px !important;padding: 3px 16px !important;}
+
+@media screen and (min-width: 1024px) {
+	#navbar{text-align:center;}
+	.navbar-nav{display: inline-block;float:none;}
+}
+
+.rprt_circle_head tr th{background-color:#ccc !important;border-top:1px solid #000 !important;}
+.upld_err_arr{display:none;}
+.upld_err_arr.red-text{color:red;}
+.background-loader{background-image:url('../img/ajax-min-loader.gif');background-position: 92% 8px;
+background-repeat: no-repeat;}
